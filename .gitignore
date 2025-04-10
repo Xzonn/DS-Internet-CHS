@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+venv/
+
+# Fonts
+files/fonts/*.ttf
+
+# Temporary files
+temp/
+unpacked/
+out/
+maintenance/
+
+# Other
+utility.bin
