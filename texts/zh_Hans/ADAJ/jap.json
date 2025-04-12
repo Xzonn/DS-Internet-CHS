@@ -2,445 +2,371 @@
   {
     "key": "ADAJ_jap_0000",
     "original": "Wi-Fiユーザーじょうほういどうソフト",
-    "translation": "Wi-Fi用户信息转移软件",
-    "context": "**翻译辅助**：\n\nWi-Fi用户信息转移软件"
+    "translation": "Wi-Fi用户信息转移软件"
   },
   {
     "key": "ADAJ_jap_0001",
     "original": "Wi-Fiユーザーじょうほうを、ほかのDSから\nこのDSにいどうするためのソフトです。",
-    "translation": "本软件是将您的Wi-Fi用户信息从其他\nDS主机转移到此DS主机的软件。",
-    "context": "**翻译辅助**：\n\n本软件是将您的Wi-Fi用户信息从其他  \nDS主机转移到此DS主机的软件。"
+    "translation": "本软件是将您的Wi-Fi用户信息从\n其他主机转移到此主机的软件。"
   },
   {
     "key": "ADAJ_jap_0002",
     "original": "Wi-Fiコネクションに\n接続できません。\n詳しくはガイドブックを\nご覧ください。",
-    "translation": "无法连接到Wi-Fi连接。\n详情请参阅指南手册。",
-    "context": "**翻译辅助**：\n\n无法连接到Wi-Fi连接。  \n详情请参阅指南手册。"
+    "translation": "无法连接到\nWi-Fi Connection。\n详情请参阅指南手册。"
   },
   {
     "key": "ADAJ_jap_0003",
     "original": "このソフトの\nWi-Fiコネクションサービスは\n終了しました。\nご利用ありがとうございました。",
-    "translation": "本软件的Wi-Fi连接服务\n已经结束。\n感谢您的使用。",
-    "context": "**翻译辅助**：\n\n本软件的Wi-Fi连接服务  \n已经结束。  \n感谢您的使用。"
+    "translation": "本软件的\nWi-Fi Connection服务\n已经结束。\n感谢您的使用。"
   },
   {
     "key": "ADAJ_jap_0004",
     "original": "ニンテンドーWi-Fiコネクタに\n接続できません。\nニンテンドーWi-Fiコネクタが\n正しく動作しているか確認してください。",
-    "translation": "无法连接至\n任天堂Wi-Fi连接器。\n请确认是否已经\n正确设置连接器。",
-    "context": "**翻译辅助**：\n\n无法连接至  \n任天堂Wi-Fi连接器。  \n请确认是否已经  \n正确设置连接器。"
+    "translation": "无法连接至\nNintendo Wi-Fi Connector。\n请确认是否已经\n正确设置连接器。"
   },
   {
     "key": "ADAJ_jap_0005",
     "original": "ニンテンドーWi-Fiコネクタが\n見つかりません。\nDS本体をニンテンドーWi-Fiコネクタに\n近づけてください。",
-    "translation": "找不到\n任天堂Wi-Fi连接器。\n请让DS主机\n靠近连接器。",
-    "context": "**翻译辅助**：\n\n找不到  \n任天堂Wi-Fi连接器。  \n请让DS主机  \n靠近连接器。"
+    "translation": "找不到\nNintendo Wi-Fi Connector。\n请让主机\n靠近连接器。"
   },
   {
     "key": "ADAJ_jap_0006",
     "original": "入力内容が正しくありません。\n入力内容をご確認ください。",
-    "translation": "输入的内容不正确。\n请重新确认输入的内容。",
-    "context": "**翻译辅助**：\n\n输入的内容不正确。  \n请重新确认输入的内容。"
+    "translation": "输入的内容不正确。\n请重新确认输入的内容。"
   },
   {
     "key": "ADAJ_jap_0007",
     "original": "アクセスポイントが見つかりません。\nDS本体をアクセスポイントに\n近づけてください。\n",
-    "translation": "找不到接入点。\n请让DS主机靠近无线接入点。",
-    "context": "**翻译辅助**：\n\n找不到接入点。  \n请让DS主机靠近无线接入点。"
+    "translation": "找不到接入点。\n请让主机靠近无线接入点。"
   },
   {
     "key": "ADAJ_jap_0008",
     "original": "アクセスポイントが見つかりません。\nSSIDが正しいかご確認ください。\nDS本体をアクセスポイントに\n近づけてください。",
-    "translation": "找不到可用的接入点。\n请确认SSID设置，\n并让DS主机靠近无线接入点。",
-    "context": "**翻译辅助**：\n\n找不到可用的接入点。  \n请确认SSID设置，  \n并让DS主机靠近无线接入点。"
+    "translation": "找不到可用的接入点。\n请确认SSID设置，\n并让主机靠近无线接入点。"
   },
   {
     "key": "ADAJ_jap_0009",
     "original": "アクセスポイントに接続できません。\nWEPキーが正しいかご確認ください。",
-    "translation": "无法连接到无线接入点。\n请确认WEP密码是否输入正确。",
-    "context": "**翻译辅助**：\n\n无法连接到无线接入点。  \n请确认WEP密码是否输入正确。"
+    "translation": "无法连接到无线接入点。\n请确认WEP密钥是否输入正确。"
   },
   {
     "key": "ADAJ_jap_0010",
     "original": "IPアドレスが取得できません。\nアクセスポイントの設定を\nご確認ください。",
-    "translation": "无法获取IP地址。\n请检查无线接入点的设置。",
-    "context": "**翻译辅助**：\n\n无法获取IP地址。  \n请检查无线接入点的设置。"
+    "translation": "无法获取IP地址。\n请检查无线接入点的设置。"
   },
   {
     "key": "ADAJ_jap_0011",
     "original": "Wi-Fiコネクションに接続できません。\n接続先の設定をご確認ください。\nアクセスポイントの設定を\nご確認ください。",
-    "translation": "无法连接到Wi-Fi连接。\n请确认连接设置\n和无线接入点的设置。",
-    "context": "**翻译辅助**：\n\n无法连接到Wi-Fi连接。  \n请确认连接设置  \n和无线接入点的设置。"
+    "translation": "无法连接到\nWi-Fi Connection。\n请确认连接设置\n和无线接入点的设置。"
   },
   {
     "key": "ADAJ_jap_0012",
     "original": "AOSSの設定に失敗しました。",
-    "translation": "AOSS设置失败。",
-    "context": "**翻译辅助**：\n\nAOSS设置失败。"
+    "translation": "AOSS设置失败。"
   },
   {
     "key": "ADAJ_jap_0013",
     "original": "らくらく無線スタートの設定に\n失敗しました。",
-    "translation": "轻松无线向导\n设置失败。",
-    "context": "**翻译辅助**：\n\n轻松无线向导  \n设置失败。"
+    "translation": "轻松无线向导\n设置失败。"
   },
   {
     "key": "ADAJ_jap_0014",
     "original": "アクセスポイントのセキュリティ設定が\nDS本体に対応していません。",
-    "translation": "DS主机不支持\n该无线接入点的安全协议。",
-    "context": "**翻译辅助**：\n\nDS主机不支持  \n该无线接入点的安全协议。"
+    "translation": "主机不支持\n该无线接入点的安全协议。"
   },
   {
     "key": "ADAJ_jap_0015",
     "original": "アクセスポイントが\n見つかりませんでした。",
-    "translation": "找不到无线接入点。\n请靠近无线接入点。",
-    "context": "**翻译辅助**：\n\n找不到无线接入点。  \n请靠近无线接入点。"
+    "translation": "找不到无线接入点。\n请靠近无线接入点。"
   },
   {
     "key": "ADAJ_jap_0016",
     "original": "ニンテンドーWi-Fiコネクタが\n見つかりませんでした。",
-    "translation": "找不到任天堂Wi-Fi连接器。",
-    "context": "**翻译辅助**：\n\n找不到任天堂Wi-Fi连接器。"
+    "translation": "找不到\nNintendo Wi-Fi Connector。"
   },
   {
     "key": "ADAJ_jap_0017",
     "original": "既に接続許可されているニンテンドー\nWi-Fiコネクタが見つかりましたが、\n別のニンテンドーWi-Fiコネクタの\n接続許可を待ちますか？",
-    "translation": "已找到一个已经允许连接的\n任天堂Wi-Fi连接器，\n需要等待另一个\n连接器允许连接吗？",
-    "context": "**翻译辅助**：\n\n已找到一个已经允许连接的  \n任天堂Wi-Fi连接器，  \n需要等待另一个  \n连接器允许连接吗？"
+    "translation": "已找到一个已经允许连接的\nNintendo Wi-Fi Connector，\n需要等待另一个\n连接器允许连接吗？"
   },
   {
     "key": "ADAJ_jap_0018",
     "original": "お客様のWi-FiコネクションIDは長い間\n使用されなかったため削除されました。\n詳しくはガイドブックをご覧ください。",
-    "translation": "这个Wi-Fi连接ID\n因长时间不使用已被删除。\n详情请参阅指南手册。",
-    "context": "**翻译辅助**：\n\n这个Wi-Fi连接ID  \n因长时间不使用已被删除。  \n详情请参阅指南手册。"
+    "translation": "您的Wi-Fi Connection ID\n因长时间不使用已被删除。\n详情请参阅指南手册。"
   },
   {
     "key": "ADAJ_jap_0019",
     "original": "Wi-Fiコネクションが混み合っているか\nサービスが停止しているために\n接続できません。\nしばらく待ってやり直してください。",
-    "translation": "Wi-Fi连接正忙\n或者已停止服务，\n无法连接。\n详情请参阅说明书。",
-    "context": "**翻译辅助**：\n\nWi-Fi连接正忙  \n或者已停止服务，  \n无法连接。  \n详情请参阅说明书。"
+    "translation": "Wi-Fi Connection\n正忙或者已停止服务，\n无法连接。\n请稍后重试。"
   },
   {
     "key": "ADAJ_jap_0020",
     "original": "アクセスポイントが混み合っているため\n接続できません。\nしばらく待ってやり直してください。",
-    "translation": "该无线接入点正忙，无法连接。\n请稍后重试。",
-    "context": "**翻译辅助**：\n\n该无线接入点正忙，无法连接。  \n请稍后重试。"
+    "translation": "该无线接入点正忙，无法连接。\n请稍后重试。"
   },
   {
     "key": "ADAJ_jap_0021",
     "original": "アクセスポイントに接続できません。\n接続先の設定やアクセスポイントの設定を\nご確認ください。",
-    "translation": "无法连接无线接入点。\n请确认连接设置\n以及无线接入点设置。",
-    "context": "**翻译辅助**：\n\n无法连接无线接入点。  \n请确认连接设置  \n以及无线接入点设置。"
+    "translation": "无法连接无线接入点。\n请确认连接设置\n以及无线接入点设置。"
   },
   {
     "key": "ADAJ_jap_0022",
     "original": "IPアドレスが取得できません。\nニンテンドーWi-Fiコネクタが\n正しく動作しているかご確認ください。",
-    "translation": "无法获取IP地址。\n请确认任天堂Wi-Fi连接器\n是否正确开启。",
-    "context": "**翻译辅助**：\n\n无法获取IP地址。  \n请确认任天堂Wi-Fi连接器  \n是否正确开启。"
+    "translation": "无法获取IP地址。\n请确认Nintendo Wi-Fi\nConnector是否正确开启。"
   },
   {
     "key": "ADAJ_jap_0023",
     "original": "全てのWi-Fiユーザー情報を消します。\nよろしいですか？",
-    "translation": "将会删除全部Wi-Fi用户数据。\n确定吗？",
-    "context": "**翻译辅助**：\n\n将会删除全部Wi-Fi用户数据。  \n确定吗？"
+    "translation": "即将删除全部Wi-Fi用户信息。\n确定吗？"
   },
   {
     "key": "ADAJ_jap_0024",
     "original": "一度消した内容は\n元に戻すことができません。\nよろしいですか？",
-    "translation": "删除后将无法恢复。\n确定吗？",
-    "context": "**翻译辅助**：\n\n删除后将无法恢复。  \n确定吗？"
+    "translation": "删除后将无法恢复。\n确定吗？"
   },
   {
     "key": "ADAJ_jap_0025",
     "original": "Wi-Fiユーザー情報を消しました。\n電源を切って終了します。",
-    "translation": "已删除Wi-Fi用户数据。\n主机电源将关闭。",
-    "context": "**翻译辅助**：\n\n已删除Wi-Fi用户数据。  \n主机电源将关闭。"
+    "translation": "已删除Wi-Fi用户信息。\n即将关闭电源结束。"
   },
   {
     "key": "ADAJ_jap_0026",
     "original": "移動中は電源を切らないでください。\nWi-Fiユーザー情報が消えてしまう\nことがあります。",
-    "translation": "转移时请不要关闭电源。\n否则可能会造成Wi-Fi用户数据消失。",
-    "context": "**翻译辅助**：\n\n转移时请不要关闭电源。  \n否则可能会造成Wi-Fi用户数据消失。"
+    "translation": "转移中请不要关闭电源。\n否则Wi-Fi用户信息\n将可能被删除。"
   },
   {
     "key": "ADAJ_jap_0027",
     "original": "移動を行うと、このDS本体の\nWi-Fiユーザー情報は\n消えてしまいます。\nよろしいですか？",
-    "translation": "如果转移，这台DS主机中的\nWi-Fi用户信息\n将会被删除。\n确定吗？",
-    "context": "**翻译辅助**：\n\n如果转移，这台DS主机中的  \nWi-Fi用户信息  \n将会被删除。  \n确定吗？"
+    "translation": "一旦转移，此主机的\nWi-Fi用户信息将被删除。\n可以吗？"
   },
   {
     "key": "ADAJ_jap_0028",
     "original": "移動先のDS本体からの応答を\n待っています。\n移動先のDSメニュー画面で\nDSダウンロードプレイを選び、\n<Wi-Fiユーザーじょうほういどうソフト>\nをダウンロードしてください。",
-    "translation": "正在等待对方DS主机的回复。\n\n请在对方DS菜单画面选择\nDS Download Play，\n然后下载\n<Wi-Fi用户信息转移软件>。",
-    "context": "**翻译辅助**：\n\n正在等待对方DS主机的回复。  \n  \n请在对方DS菜单画面选择  \nDS Download Play，  \n然后下载  \n<Wi-Fi用户信息转移软件>。"
+    "translation": "正在等待要转移到的主机的回复。\n请在要转移到的主机的\n菜单画面选择\nDS下载游戏，\n然后下载\n<Wi-Fi用户信息转移软件>。"
   },
   {
     "key": "ADAJ_jap_0029",
     "original": "Wi-Fiユーザー情報を移動しますか？",
-    "translation": "要转移Wi-Fi用户信息吗？",
-    "context": "**翻译辅助**：\n\n要转移Wi-Fi用户信息吗？"
+    "translation": "要转移Wi-Fi用户信息吗？"
   },
   {
     "key": "ADAJ_jap_0030",
     "original": "Wi-Fiユーザー情報を移動中です。\nDS本体の電源を切らないでください。",
-    "translation": "正在转移Wi-Fi用户数据。\n请不要关闭DS主机的电源。",
-    "context": "**翻译辅助**：\n\n正在转移Wi-Fi用户数据。  \n请不要关闭DS主机的电源。"
+    "translation": "正在转移Wi-Fi用户信息。\n请不要关闭主机的电源。"
   },
   {
     "key": "ADAJ_jap_0031",
     "original": "移動が完了しました。\n\n電源を切って終了します。",
-    "translation": "转移完成。\n\n主机电源将关闭。",
-    "context": "**翻译辅助**：\n\n转移完成。  \n  \n主机电源将关闭。"
+    "translation": "转移完毕。\n\n即将关闭电源结束。"
   },
   {
     "key": "ADAJ_jap_0032",
     "original": "移動に失敗しました。もう一度\nWi-Fiユーザー情報を移動しますか？",
-    "translation": "转移失败。\n要再次转移Wi-Fi用户信息吗？",
-    "context": "**翻译辅助**：\n\n转移失败。  \n要再次转移Wi-Fi用户信息吗？"
+    "translation": "转移失败。\n要再次转移Wi-Fi用户信息吗？"
   },
   {
     "key": "ADAJ_jap_0033",
     "original": "移動先のDS本体によって\n中止されました。",
-    "translation": "对方的DS主机\n已中止转移。",
-    "context": "**翻译辅助**：\n\n对方的DS主机  \n已中止转移。"
+    "translation": "要转移到的主机\n已中止转移。"
   },
   {
     "key": "ADAJ_jap_0034",
     "original": "アクセスポイントのAOSSボタンを\nAOSSランプが点滅するまで\n押し続けてください。\n設定が完了するまで60秒程度\nかかる場合があります。",
-    "translation": "请按住无线接入点上的\nAOSS按钮，\n直到AOSS指示灯闪烁。\n设置完成可能需要\n60秒左右。",
-    "context": "**翻译辅助**：\n\n请按住无线接入点上的  \nAOSS按钮，  \n直到AOSS指示灯闪烁。  \n设置完成可能需要  \n60秒左右。"
+    "translation": "请按住无线接入点的AOSS键，\n直到AOSS指示灯闪烁为止。\n某些场合，这一设置需要持续\n大约1分钟时间完成。"
   },
   {
     "key": "ADAJ_jap_0035",
     "original": "AOSSの設定が完了しました。",
-    "translation": "AOSS设置完成。",
-    "context": "**翻译辅助**：\n\nAOSS设置完成。"
+    "translation": "AOSS设置完毕。"
   },
   {
     "key": "ADAJ_jap_0036",
     "original": "しばらくお待ちください。",
-    "translation": "请稍候。",
-    "context": "**翻译辅助**：\n\n请稍候。"
+    "translation": "请稍候。"
   },
   {
     "key": "ADAJ_jap_0037",
     "original": "アクセスポイントの\nらくらくスタートボタン（SETスイッチ)\nをPOWERランプが緑色に点滅するまで\n押し続けてください。\n次のステップに進むまで60秒程度\nかかる場合があります。",
-    "translation": "请按住无线接入点上的\n轻松无线向导按钮（SET开关）\n直到POWER指示灯呈绿色闪烁。\n\n设置完成可能需要\n60秒左右。",
-    "context": "**翻译辅助**：\n\n请按住无线接入点上的  \n轻松无线向导按钮（SET开关）  \n直到POWER指示灯呈绿色闪烁。  \n  \n设置完成可能需要  \n60秒左右。"
+    "translation": "请按住无线接入点的\n轻松无线向导按钮（SET开关），\n直到POWER指示灯呈绿色闪烁为止。\n某些场合，需要持续\n大约1分钟时间才能前往下一步。"
   },
   {
     "key": "ADAJ_jap_0038",
     "original": "らくらく無線スタート\nの設定が完了しました。",
-    "translation": "轻松无线向导\n设置完成。",
-    "context": "**翻译辅助**：\n\n轻松无线向导  \n设置完成。"
+    "translation": "轻松无线向导\n设置完毕。"
   },
   {
     "key": "ADAJ_jap_0039",
     "original": "ニンテンドーWi-Fiコネクタを準備してく\nださい。詳しくはニンテンドーWi-Fiコネ\nクタの取扱説明書をご覧ください。\n\n準備ができたら\n次へをタッチしてください。",
-    "translation": "请准备任天堂Wi-Fi连接器。\n详情请参阅连接器的说明书。\n\n准备好之后，\n请点击“继续”。",
-    "context": "**翻译辅助**：\n\n请准备任天堂Wi-Fi连接器。  \n详情请参阅连接器的说明书。  \n  \n准备好之后，  \n请点击“继续”。"
+    "translation": "请准备Nintendo\nWi-Fi Connector。\n详情请参阅说明书。\n\n准备好之后，\n请点击“继续”。"
   },
   {
     "key": "ADAJ_jap_0040",
     "original": "パソコンの「ニンテンドーWi-Fiコネク\nタ登録ツール」でこのＤＳ本体の\n接続を許可してください。",
-    "translation": "使用电脑的\n“任天堂Wi-Fi连接器登录工具”\n允许这台DS主机连接。",
-    "context": "**翻译辅助**：\n\n使用电脑的  \n“任天堂Wi-Fi连接器登录工具”  \n允许这台DS主机连接。"
+    "translation": "请在电脑上使用\n“Nintendo Wi-Fi Connector\n登录工具”，来允许此主机连接。"
   },
   {
     "key": "ADAJ_jap_0041",
     "original": "ニンテンドーWi-Fiコネクタの設定が\n完了しました。",
-    "translation": "任天堂Wi-Fi连接器\n设置完成。",
-    "context": "**翻译辅助**：\n\n任天堂Wi-Fi连接器  \n设置完成。"
+    "translation": "Nintendo Wi-Fi Connector\n设置完毕。"
   },
   {
     "key": "ADAJ_jap_0042",
     "original": "もう一度アクセスポイントの\nらくらくスタートボタン（SETスイッチ）\nをPOWERランプがオレンジ色に\n点灯するまで押し続けてください。\n設定が完了するまで30秒程度\nかかる場合があります。",
-    "translation": "请再次按住无线接入点上的\n轻松无线向导按钮（SET开关）\n直到POWER指示灯呈橙色闪烁。\n\n设置完成可能需要\n30秒左右。",
-    "context": "**翻译辅助**：\n\n请再次按住无线接入点上的  \n轻松无线向导按钮（SET开关）  \n直到POWER指示灯呈橙色闪烁。  \n  \n设置完成可能需要  \n30秒左右。"
+    "translation": "请再次按住无线接入点的\n轻松无线向导按钮（SET开关），\n直到POWER指示灯呈橙色闪烁为止。\n某些场合，这一设置需要持续\n大约半分钟时间完成。"
   },
   {
     "key": "ADAJ_jap_0043",
     "original": "設定内容をセーブしました。\n接続テストを開始します。",
-    "translation": "连接设置已保存。\n开始连接测试。",
-    "context": "**翻译辅助**：\n\n连接设置已保存。  \n开始连接测试。"
+    "translation": "设置保存完毕。\n开始连接测试。"
   },
   {
     "key": "ADAJ_jap_0044",
     "original": "接続テスト中・・・",
-    "translation": "连接测试中···",
-    "context": "**翻译辅助**：\n\n连接测试中···"
+    "translation": "连接测试中···"
   },
   {
     "key": "ADAJ_jap_0045",
     "original": "接続に成功しました。",
-    "translation": "连接成功。",
-    "context": "**翻译辅助**：\n\n连接成功。"
+    "translation": "连接成功。"
   },
   {
     "key": "ADAJ_jap_0046",
     "original": "使用するメニューを\nタッチしてください。",
-    "translation": "请点触要使用的菜单项。",
-    "context": "**翻译辅助**：\n\n请点触要使用的菜单项。"
+    "translation": "请点触要使用的菜单项。"
   },
   {
     "key": "ADAJ_jap_0047",
     "original": "接続先を３つまで設定できます。\nニンテンドーWi-Fiコネクタを使って\n接続することもできます。",
-    "translation": "最多可以设置3个连接方式。\n也可以使用任天堂Wi-Fi连接器\n进行连接。",
-    "context": "**翻译辅助**：\n\n最多可以设置3个连接方式。  \n也可以使用任天堂Wi-Fi连接器  \n进行连接。"
+    "translation": "最多可以设置3个连接方式。\n也可以使用Nintendo\nWi-Fi Connector进行连接。"
   },
   {
     "key": "ADAJ_jap_0048",
     "original": "編集をタッチすると、\n各項目を編集できます。\n接続テストをすることもできます。",
-    "translation": "点触“编辑”，\n可以编辑各个项目。\n也可以进行连接测试。",
-    "context": "**翻译辅助**：\n\n点触“编辑”，  \n可以编辑各个项目。  \n也可以进行连接测试。"
+    "translation": "点触“编辑”，\n可以编辑各个项目。\n也可以进行连接测试。"
   },
   {
     "key": "ADAJ_jap_0049",
     "original": "設定した内容で、\n接続先の接続テストをします。",
-    "translation": "将会对设置好的内容\n进行连接测试。",
-    "context": "**翻译辅助**：\n\n将会对设置好的内容  \n进行连接测试。"
+    "translation": "即将对设置好的内容\n进行连接测试。"
   },
   {
     "key": "ADAJ_jap_0050",
     "original": "接続先1の設定方法を\nタッチしてください。",
-    "translation": "接入点1的设置 \n可通过点触来选择。",
-    "context": "**翻译辅助**：\n\n接入点1的设置   \n可通过点触来选择。"
+    "translation": "接入点1的设置 \n可通过点触来选择。"
   },
   {
     "key": "ADAJ_jap_0051",
     "original": "使用できるアクセスポイントを\n探しています。",
-    "translation": "正在搜索可用的\n无线接入点。",
-    "context": "**翻译辅助**：\n\n正在搜索可用的  \n无线接入点。"
+    "translation": "正在搜索可用的\n无线接入点。"
   },
   {
     "key": "ADAJ_jap_0052",
     "original": "接続したいアクセスポイントを\nタッチしてください。",
-    "translation": "点触以选择要连接的\n无线接入点。",
-    "context": "**翻译辅助**：\n\n点触以选择要连接的  \n无线接入点。"
+    "translation": "点触以选择要连接的\n无线接入点。"
   },
   {
     "key": "ADAJ_jap_0053",
     "original": "このアクセスポイントには、WEPキーが\n設定されています。WEPキーを入力して\nください。",
-    "translation": "要连接这个无线接入点，\n需要WEP密码。\n请输入WEP密码。",
-    "context": "**翻译辅助**：\n\n要连接这个无线接入点，  \n需要WEP密码。  \n请输入WEP密码。"
+    "translation": "要连接这个无线接入点，\n需要WEP密钥。\n请输入WEP密钥。"
   },
   {
     "key": "ADAJ_jap_0054",
     "original": "AOSS対応のアクセスポイントに\n簡単に接続できます。",
-    "translation": "可以轻松地连接至支持AOSS的\n无线接入点。",
-    "context": "**翻译辅助**：\n\n可以轻松地连接至支持AOSS的  \n无线接入点。"
+    "translation": "可以轻松地连接至支持AOSS的\n无线接入点。"
   },
   {
     "key": "ADAJ_jap_0055",
     "original": "らくらく無線スタート対応の\nアクセスポイントに\n簡単に接続できます。",
-    "translation": "可以轻松地连接至支持\n轻松无线向导的\n无线接入点。",
-    "context": "**翻译辅助**：\n\n可以轻松地连接至支持  \n轻松无线向导的  \n无线接入点。"
+    "translation": "可以轻松地连接至支持\n轻松无线向导的\n无线接入点。"
   },
   {
     "key": "ADAJ_jap_0056",
     "original": "ニンテンドーWi-Fiコネクタは\nUSBポートに差し込んで使う\nアクセスポイントです。パソコンで\n接続を許可すると通信できます。",
-    "translation": "任天堂Wi-Fi连接器是\n插入到USB接口上使用的\n无线接入点。在电脑上\n允许连接后就可以使用。",
-    "context": "**翻译辅助**：\n\n任天堂Wi-Fi连接器是  \n插入到USB接口上使用的  \n无线接入点。在电脑上  \n允许连接后就可以使用。"
+    "translation": "Nintendo Wi-Fi Connector\n是插入到USB接口上使用的\n无线接入点。在电脑上\n允许连接后就可以使用。"
   },
   {
     "key": "ADAJ_jap_0057",
     "original": "使用するメニューを\nタッチしてください。",
-    "translation": "请点触要使用的菜单项。",
-    "context": "**翻译辅助**：\n\n请点触要使用的菜单项。"
+    "translation": "请点触要使用的菜单项。"
   },
   {
     "key": "ADAJ_jap_0058",
     "original": "このDS本体のMACアドレスと\nWi-FiコネクションIDです。",
-    "translation": "这是这台DS主机的MAC地址\n和Wi-Fi连接ID。",
-    "context": "**翻译辅助**：\n\n这是这台DS主机的MAC地址  \n和Wi-Fi连接ID。"
+    "translation": "这是此主机的MAC地址和\nWi-Fi Connection ID。"
   },
   {
     "key": "ADAJ_jap_0059",
     "original": "このDS本体にセーブされている\nWi-Fiユーザー情報を消します。",
-    "translation": "将会删除这台DS主机中保存的\nWi-Fi用户信息。",
-    "context": "**翻译辅助**：\n\n将会删除这台DS主机中保存的  \nWi-Fi用户信息。"
+    "translation": "即将删除此主机中保存的\nWi-Fi用户信息。"
   },
   {
     "key": "ADAJ_jap_0060",
     "original": "このDS本体にセーブされている\n全てのWi-Fiユーザー情報を、\n他のDS本体に移動します。",
-    "translation": "将这台DS主机中保存的所有\nWi-Fi用户数据\n全部转移至另一台DS主机。",
-    "context": "**翻译辅助**：\n\n将这台DS主机中保存的所有  \nWi-Fi用户数据  \n全部转移至另一台DS主机。"
+    "translation": "将此主机中保存的所有\nWi-Fi用户信息\n全部转移至另一台主机。"
   },
   {
     "key": "ADAJ_jap_0061",
     "original": "WEPキーを入力してください。",
-    "translation": "请输入WEP密码。",
-    "context": "**翻译辅助**：\n\n请输入WEP密码。"
+    "translation": "请输入WEP密钥。"
   },
   {
     "key": "ADAJ_jap_0062",
     "original": "SSIDを入力してください。",
-    "translation": "请输入SSID。",
-    "context": "**翻译辅助**：\n\n请输入SSID。"
+    "translation": "请输入SSID。"
   },
   {
     "key": "ADAJ_jap_0063",
     "original": "IPアドレスを入力してください。",
-    "translation": "请输入IP地址。",
-    "context": "**翻译辅助**：\n\n请输入IP地址。"
+    "translation": "请输入IP地址。"
   },
   {
     "key": "ADAJ_jap_0064",
     "original": "サブネットマスクを入力してください。",
-    "translation": "请输入子网掩码。",
-    "context": "**翻译辅助**：\n\n请输入子网掩码。"
+    "translation": "请输入子网掩码。"
   },
   {
     "key": "ADAJ_jap_0065",
     "original": "ゲートウェイのIPアドレスを\n入力してください。",
-    "translation": "请输入网关的IP地址。",
-    "context": "**翻译辅助**：\n\n请输入网关的IP地址。"
+    "translation": "请输入网关的IP地址。"
   },
   {
     "key": "ADAJ_jap_0066",
     "original": "プライマリDNSサーバのIPアドレスを\n入力してください。",
-    "translation": "请输入主DNS地址。",
-    "context": "**翻译辅助**：\n\n请输入主DNS地址。"
+    "translation": "请输入主DNS地址。"
   },
   {
     "key": "ADAJ_jap_0067",
     "original": "セカンダリDNSサーバのIPアドレスを\n入力してください。",
-    "translation": "请输入次DNS地址。",
-    "context": "**翻译辅助**：\n\n请输入次DNS地址。"
+    "translation": "请输入次DNS地址。"
   },
   {
     "key": "ADAJ_jap_0068",
     "original": "設定内容をセーブしました。",
-    "translation": "已保存设置的内容。",
-    "context": "**翻译辅助**：\n\n已保存设置的内容。"
+    "translation": "已保存设置的内容。"
   },
   {
     "key": "ADAJ_jap_0069",
     "original": "編集をタッチすると、\n各項目を編集できます。\n接続テストをすることもできます。",
-    "translation": "点触“编辑”，\n可以编辑各个项目。\n也可以进行连接测试。",
-    "context": "**翻译辅助**：\n\n点触“编辑”，  \n可以编辑各个项目。  \n也可以进行连接测试。"
+    "translation": "点触“编辑”，\n可以编辑各个项目。\n也可以进行连接测试。"
   },
   {
     "key": "ADAJ_jap_0070",
     "original": "接続先1の設定を消します。\n一度消した内容は\n元に戻すことができません。\nよろしいですか？",
-    "translation": "接入点1的设置将会删除。 \n一旦删除后\n便无法恢复。\n可以吗？",
-    "context": "**翻译辅助**：\n\n接入点1的设置将会删除。   \n一旦删除后  \n便无法恢复。  \n可以吗？"
+    "translation": "接入点1的设置将会删除。 \n一旦删除后\n便无法恢复。\n可以吗？"
   },
   {
     "key": "ADAJ_jap_0071",
     "original": "この内容でよろしいですか？",
-    "translation": "这个内容正确吗？",
-    "context": "**翻译辅助**：\n\n这个内容正确吗？"
+    "translation": "这个内容正确吗？"
   },
   {
     "key": "ADAJ_jap_0072",
     "original": "この内容で保存します。\nよろしいですか？",
-    "translation": "要保存这个内容吗？",
-    "context": "**翻译辅助**：\n\n要保存这个内容吗？"
+    "translation": "保存此内容。\n可以吗？"
   },
   {
     "key": "ADAJ_jap_0073",
     "original": "接続テストを開始します。",
-    "translation": "将开始连接测试。",
-    "context": "**翻译辅助**：\n\n将开始连接测试。"
+    "translation": "将开始连接测试。"
   }
 ]
